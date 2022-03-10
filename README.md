@@ -14,9 +14,7 @@
   <br>
   
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/LiajuX/Next-Level-Week-Podcastr?color=green">
-  
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/722ecf5da4644001995eba58bb45bfe9">
-  
+    
    <img alt="MIT License" src="https://img.shields.io/github/license/LiajuX/NextLevelWeek-MoveIt">
 </p>
 
